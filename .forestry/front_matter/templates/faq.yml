@@ -11,3 +11,5 @@ fields:
 - type: text
   name: description
   label: description
+pages:
+- faq/ik-heb-een-antireclamesticker-maar-ontvang-ook-geen-gratis-nieuwsbladen.hoe-kan-dit.md
