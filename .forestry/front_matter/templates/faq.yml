@@ -11,5 +11,14 @@ fields:
 - type: text
   name: description
   label: description
+- name: answer
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Answer
 pages:
 - faq/ik-heb-een-antireclamesticker-maar-ontvang-ook-geen-gratis-nieuwsbladen.hoe-kan-dit.md
