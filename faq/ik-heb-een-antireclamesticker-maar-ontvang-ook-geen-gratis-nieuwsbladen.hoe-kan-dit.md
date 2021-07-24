@@ -3,5 +3,8 @@ description = "Van zodra u een antireclamesticker aanbrengt op uw brievenbus ont
 draft = true
 featured_image = ""
 title = " Ik heb een antireclamesticker, maar ontvang ook geen gratis nieuwsbladen. Hoe kan dit?"
+[menu.main]
+name = "FAQ"
+weight = 3
 
 +++
